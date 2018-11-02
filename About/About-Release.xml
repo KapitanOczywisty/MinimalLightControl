@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Minimal Light Control</name>
+	<author>Kapitan Oczywisty</author>
+	<targetVersion>1.0.2059</targetVersion>
+  <description>
+<![CDATA[<i>You have eyes to see, your viewer have the right to know what the heck is in this black mess on screen. So if you can't see s..t in Rimworld, this mod is for you!</i>
+
+Mod changes visible ambient light levels during night or bad weather. Your pawns still may be "in darkness".]]>
+  </description>
+  <url>https://ludeon.com/forums/index.php?topic=46420.0</url>
+</ModMetaData>
